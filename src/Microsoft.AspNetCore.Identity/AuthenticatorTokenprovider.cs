@@ -37,7 +37,7 @@ namespace Microsoft.AspNetCore.Identity
         }
 
         /// <summary>
-        /// 
+        /// Validate
         /// </summary>
         /// <param name="purpose"></param>
         /// <param name="token"></param>
